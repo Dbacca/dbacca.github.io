@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "OK, well, sometimes science is more art than science Morty"
   - text: "ou don't have to try and impress me, Morty!"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/logo.jpg"
 
 ##############################
 # Color the browser elements #
