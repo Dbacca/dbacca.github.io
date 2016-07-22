@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "OK, well, sometimes science is more art than science Morty"
-  - text: "ou don't have to try and impress me, Morty!"
+  - text: "I said Fuck it I'm going to change my life"
+  - text: "I'm going to be a front end developer!"
 
 me-img: "/img/logo.jpg"
 
