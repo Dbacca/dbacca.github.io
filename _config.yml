@@ -31,7 +31,7 @@ force-https: True
 lang: "en"
 author: "Drew Since"
 title: "{ Drew Since }"
-description: "THis is a place to get to know Drew better. I will also occasional post a blog or 2 "
+description: "This is a place to get to know Drew better. I will also occasional post a blog or 2 "
 keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
@@ -153,8 +153,6 @@ social:
     url: "https://www.facebook.com/drew.sincebaugh"
   - title: "github"
     url: "https://github.com/Dbacca"
-  - title: ""
-    url: ""
 
 
 ############
