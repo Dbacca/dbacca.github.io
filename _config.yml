@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://dbacca.github.io/dbacca.github.io"
+url: "https://dbacca.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -12,7 +12,7 @@ url: "https://dbacca.github.io/dbacca.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /personal-jekyll-theme
+baseurl: /dbacca.github.io
 
 # Google tracking id to track your visitors
 
@@ -139,7 +139,7 @@ email: "Drew.Sincebaugh@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Hey, I'm Drew, a former Marine that has found a passion for front end development and has recently pivoted his life and moved to Thailand to focus on the new found passion. I love  restaurants, not jsut the food but, the energy and controlled chaos that is a restaurnt running full speed!"
+author_blurb: "Hey, I'm Drew, a former Marine that has found a passion for front end development and has recently pivoted his life and moved to Thailand to focus on the new found passion."
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -153,8 +153,8 @@ social:
     url: "https://www.facebook.com/drew.sincebaugh"
   - title: "github"
     url: "https://github.com/Dbacca"
-  - title: "bitcoin"
-    url: "n/a"
+  - title: ""
+    url: ""
 
 
 ############
