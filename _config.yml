@@ -109,7 +109,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "img/timeline/USMC.gif"
+  - image: "img/timeline/USMC.png"
     date: "2006 - 2011"
     description: "SGT United States Marine Corps"
   - image: "/img/timeline/baracktocat.jpg"
