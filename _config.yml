@@ -118,7 +118,7 @@ events:
   - image: "/img/timeline/pinstripes.png"
     date: "2014-2015"
     description: "Opened Downtown Chicago Flagship location for a booming restaurant Group "
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/coding.png"
     date: "Dec 2015 - Present"
     description: "Moved to Thailand to persue my love for travel and pivot my life to frontend development"
 # First image of the Timeline
