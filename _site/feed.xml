@@ -1,132 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
-	<channel>
-		<title>{ Drew Since }</title>
-		<description>This is a place to get to know Drew better. I will also occasional post a blog or 2 </description>
-		<link>https://dbacca.github.io/dbacca.github.io</link>
-		<atom:link href="https://dbacca.github.io/dbacca.github.io/feed.xml" rel="self" type="application/rss+xml" />
-		
-			<item>
-				<title>Welcome to { Personal } Jekyll Theme!</title>
-				
-				
-					<description>&lt;p&gt;Click the view more posts link bellow, to see the currently available post-tutorials to help you get your { Personal } website up and running quicker!&lt;/p&gt;
-
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awesome Title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>https://y7kim.github.io/agency-jekyll-theme//</link>
+    <atom:link href="https://y7kim.github.io/agency-jekyll-theme//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 27 Jul 2016 22:42:31 +0700</pubDate>
+    <lastBuildDate>Wed, 27 Jul 2016 22:42:31 +0700</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Dreams</title>
+        <description>
 </description>
-				
-				<pubDate>Sat, 27 Jun 2015 00:00:00 +0700</pubDate>
-				<link>https://dbacca.github.io/dbacca.github.io/tech/2015/06/27/welcome.html</link>
-				<guid isPermaLink="true">https://dbacca.github.io/dbacca.github.io/tech/2015/06/27/welcome.html</guid>
-			</item>
-		
-			<item>
-				<title>Initial setup</title>
-				
-				
-					<description>&lt;p&gt;All features of { Personal } are controlled by setting values to variables that are defined in the
-_config.yml file. Let’s start with the initial variables that you have to set before
-serving your { Personal } website for the first time.&lt;/p&gt;
-
+        <pubDate>Fri, 18 Jul 2014 00:00:00 +0700</pubDate>
+        <link>https://y7kim.github.io/agency-jekyll-theme//web%20development/2014/07/18/project-1/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//web%20development/2014/07/18/project-1/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Escape</title>
+        <description>
 </description>
-				
-				<pubDate>Thu, 25 Jun 2015 00:00:00 +0700</pubDate>
-				<link>https://dbacca.github.io/dbacca.github.io/tech/2015/06/25/initial-setup.html</link>
-				<guid isPermaLink="true">https://dbacca.github.io/dbacca.github.io/tech/2015/06/25/initial-setup.html</guid>
-			</item>
-		
-			<item>
-				<title>Modifying the Header</title>
-				
-				
-					<description>&lt;p&gt;The intro part of the index page (Header) is consisted of four elements:&lt;/p&gt;
-
+        <pubDate>Thu, 17 Jul 2014 00:00:00 +0700</pubDate>
+        <link>https://y7kim.github.io/agency-jekyll-theme//web%20development/2014/07/17/project-2/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//web%20development/2014/07/17/project-2/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Golden</title>
+        <description>
 </description>
-				
-				<pubDate>Wed, 24 Jun 2015 00:00:00 +0700</pubDate>
-				<link>https://dbacca.github.io/dbacca.github.io/tech/2015/06/24/intro-layout-tutorial.html</link>
-				<guid isPermaLink="true">https://dbacca.github.io/dbacca.github.io/tech/2015/06/24/intro-layout-tutorial.html</guid>
-			</item>
-		
-			<item>
-				<title>Web app mode</title>
-				
-				
-					<description>&lt;p&gt;You can make your website behave like a native web app in iOS and Android devices
-by providing links for the icons for each resolution:&lt;/p&gt;
-
+        <pubDate>Wed, 16 Jul 2014 00:00:00 +0700</pubDate>
+        <link>https://y7kim.github.io/agency-jekyll-theme//web%20development/2014/07/16/project-3/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//web%20development/2014/07/16/project-3/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Treehouse</title>
+        <description>
 </description>
-				
-				<pubDate>Mon, 22 Jun 2015 00:00:00 +0700</pubDate>
-				<link>https://dbacca.github.io/dbacca.github.io/tech/2015/06/22/web-app-mode.html</link>
-				<guid isPermaLink="true">https://dbacca.github.io/dbacca.github.io/tech/2015/06/22/web-app-mode.html</guid>
-			</item>
-		
-			<item>
-				<title>Setting up the Blog</title>
-				
-				
-					<description>&lt;p&gt;A website is truly personal if it hosts your blog as well, this place of the internet
-where you can place your thoughts about anything!&lt;/p&gt;
-
+        <pubDate>Tue, 15 Jul 2014 00:00:00 +0700</pubDate>
+        <link>https://y7kim.github.io/agency-jekyll-theme//web%20development/2014/07/15/project-4/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//web%20development/2014/07/15/project-4/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Round Icons</title>
+        <description>
 </description>
-				
-				<pubDate>Sat, 20 Jun 2015 00:00:00 +0700</pubDate>
-				<link>https://dbacca.github.io/dbacca.github.io/tech/2015/06/20/blog-tutorial.html</link>
-				<guid isPermaLink="true">https://dbacca.github.io/dbacca.github.io/tech/2015/06/20/blog-tutorial.html</guid>
-			</item>
-		
-			<item>
-				<title>Writing posts</title>
-				
-				
-					<description>&lt;h3 id=&quot;creating-a-new-post&quot;&gt;Creating a new post&lt;/h3&gt;
-
+        <pubDate>Tue, 15 Jul 2014 00:00:00 +0700</pubDate>
+        <link>https://y7kim.github.io/agency-jekyll-theme//web%20development/2014/07/15/project-6/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//web%20development/2014/07/15/project-6/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Startup Framework</title>
+        <description>
 </description>
-				
-				<pubDate>Fri, 19 Jun 2015 00:00:00 +0700</pubDate>
-				<link>https://dbacca.github.io/dbacca.github.io/tech/2015/06/19/writing-posts.html</link>
-				<guid isPermaLink="true">https://dbacca.github.io/dbacca.github.io/tech/2015/06/19/writing-posts.html</guid>
-			</item>
-		
-			<item>
-				<title>Adding a life event in the Timeline</title>
-				
-				
-					<description>&lt;p&gt;One of the coolest features of { Personal } is that enables you to tell your life’s story in
-the form of a timeline of photos, dates and text descriptions.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Fri, 12 Jun 2015 00:00:00 +0700</pubDate>
-				<link>https://dbacca.github.io/dbacca.github.io/tech/2015/06/12/timeline-tutorial.html</link>
-				<guid isPermaLink="true">https://dbacca.github.io/dbacca.github.io/tech/2015/06/12/timeline-tutorial.html</guid>
-			</item>
-		
-			<item>
-				<title>Modifying the social buttons</title>
-				
-				
-					<description>&lt;p&gt;Social buttons (rendered above the footer) are great for having a small hub with all your social footprint.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Thu, 11 Jun 2015 00:00:00 +0700</pubDate>
-				<link>https://dbacca.github.io/dbacca.github.io/tech/2015/06/11/social-buttons-tutorial.html</link>
-				<guid isPermaLink="true">https://dbacca.github.io/dbacca.github.io/tech/2015/06/11/social-buttons-tutorial.html</guid>
-			</item>
-		
-			<item>
-				<title>Modifying the Contact</title>
-				
-				
-					<description>&lt;p&gt;The contact part of the index page is consisted of two elements:&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Wed, 10 Jun 2015 00:00:00 +0700</pubDate>
-				<link>https://dbacca.github.io/dbacca.github.io/tech/2015/06/10/contact-tutorial.html</link>
-				<guid isPermaLink="true">https://dbacca.github.io/dbacca.github.io/tech/2015/06/10/contact-tutorial.html</guid>
-			</item>
-		
-	</channel>
+        <pubDate>Mon, 14 Jul 2014 00:00:00 +0700</pubDate>
+        <link>https://y7kim.github.io/agency-jekyll-theme//web%20development/2014/07/14/project-5/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//web%20development/2014/07/14/project-5/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+  </channel>
 </rss>

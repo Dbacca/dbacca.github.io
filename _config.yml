@@ -1,193 +1,62 @@
+url: https://dbacca.github.io
+baseurl: /agency-jekyll-theme/
 
 # Site settings
+title: Drew Since Web Developer
+email: Drew.Since@gmail.com
+description: "THis is the site that will make you want to hire Drew as your new Dev!"
 
-# NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://dbacca.github.io"
+# Team names, titles and socials links
+people:
+- name: Kay Garland
+  pic: 1
+  position: Lead Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
 
-# If you're hosting your site at a Project repository on GitHub pages
-# (https://yourusername.github.io/repository-name)
-# and NOT your user repository (https://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-#
-# NB! Without this *nothing* will work, because it's used in every path :)
+- name: Larry Parker
+  pic: 2
+  position: Lead Marketer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
 
-baseurl: /dbacca.github.io
+- name: Diana Petersen
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
 
-# Google tracking id to track your visitors
-
-google-tracking-id: "UA-35880426-4"
-
-# Forces https everywhere in your website, except when you serve it locally
-# If you are not hosted on Github Pages, and your host doesn't support https
-# then you should disable it
-
-force-https: True
-
-#############
-# HTML Head #
-#############
-
-lang: "en"
-author: "Drew Since"
-title: "{ Drew Since }"
-description: "This is a place to get to know Drew better. I will also occasional post a blog or 2 "
-keywords: "smith, jones, personal, jekyll, theme"
-favicon: "/img/favicon.ico"
-
-################
-# Header layout #
-################
-
-black-favicon: "/img/black-lab-glass.ico"
-
-background-img: "../img/edc.jpg"
-
-##############################
-# Dynamic Text on the Header #
-##############################
-
-dynamic-typing: True
-shuffle: True # Shuffle the lines.
-loop: True
-loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 10
-start-delay: 200
-delete-delay: 5000
-lines: # You can add HTML Tags in the Text
-  - text: "Time to pivot my life..."
-  - text: "...I'm going to be a front end developer!"
-
-me-img: "/img/logo.jpg"
-
-##############################
-# Color the browser elements #
-##############################
-color-browser: "#000000"
-apple-status-bar-style: "black"
-
-################
-# Web app mode #
-################
-
-web-app-mode: True
-
-# Icons for Web App mode
-
-icon-36p: "/img/web-app/icon-36p.png"
-icon-48p: "/img/web-app/icon-48p.png"
-icon-72p: "/img/web-app/icon-72p.png"
-icon-96p: "/img/web-app/icon-96p.png"
-icon-144p: "/img/web-app/icon-144p.png"
-icon-192p: "/img/web-app/icon-192p.png"
-
-########
-# Blog #
-########
-
-post-preview-words: 96
-
-paginate: 5
-
-email-share: True
-fb-share: True
-twitter-share: True
-linkedin-share: True
-reddit-share: True
-google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
-
-disqus-shortname: "drewbacca"
-
-syntax-highlight: True
-
-############
-# Timeline #
-############
-
-events:
-  - image: "/img/timeline/USMC.png"
-    date: "2006 - 2011"
-    description: "SGT United States Marine Corps"
-  - image: "/img/timeline/sales.jpg"
-    date: "2012 - 2014"
-    description: "Top Producing Account Manager for MN based tech company"
-  - image: "/img/timeline/pinstripes.png"
-    date: "2014-2015"
-    description: "Opened Downtown Chicago Flagship location for a booming restaurant Group "
-  - image: "/img/timeline/coding.png"
-    date: "Dec 2015 - Present"
-    description: "Moved to Thailand to persue my love for travel and pivot my life to frontend development"
-# First image of the Timeline
-
-timeline-img: "/img/timeline/now.jpg"
-
-###########
-# Contact #
-###########
-
-email: "Drew.Sincebaugh@gmail.com"
-
-################
-# Author Blurb #
-################
-
-# The author blurb goes underneath blog posts.
-# This works best when your author blurb image has a transparent background, or matches your site background color.
-
-# if the author_blurb is not set, then this feature is skipped
-author_blurb: "Hey, I'm Drew, a former Marine that has found a passion for front end development and has recently pivoted his life and moved to Thailand to focus on the new found passion."
-author_blurb_image: "/img/author.png"
-
-##################
-# Social Buttons #
-##################
-
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: "facebook"
-    url: "https://www.facebook.com/drew.sincebaugh"
-  - title: "twitter"
-    url: "https://www.facebook.com/drew.sincebaugh"
-  - title: "github"
-    url: "https://github.com/Dbacca"
-  - title: "instagram"
-    url: "https://www.instagram.com/drewsince/"
+  - title: twitter
+    url: https://twitter.com/drewsincetravel
+  - title: facebook
+    url: https://www.facebook.com/drew.sincebaugh
 
+  - title: github
+    url: http://github.com/dbacca
 
-############
-# 404 page #
-############
+# Postal address (add as many lines as necessary)
+address:
+  - line: Chaing Mai, Thailand
+  - line: Soon to be Seattle, Washington
 
-404-img: "/img/labtocat.png"
-
-################################################################################
-
-# NB! Tread carefully if you want to change the variables below this point!
-
-# Sections shown in the index page
-
-pages_list:
-  About: 'about'
-  Blog: 'latest-post'
-  Timeline: 'timeline'
-  Contact: 'contact'
-
-# Exclusion list from the generated _site
-
-exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
-
-# Pagination path
-
-paginate_path: "blog/page:num/"
-
-# Enable minification SASS
-
-sass:
-  style: compressed
-
-gems:
-  - jekyll-paginate
-  - jemoji
+# Build settings
+markdown: kramdown
+permalink: pretty
