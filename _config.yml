@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "I JUST SET UP MY JKYLL ENVIRONMENT"
-  - text: "I'm going to be a front end developer!"
+  - text: "Time to pivot my life..."
+  - text: "...I'm going to be a front end developer!"
 
 me-img: "/img/logo.jpg"
 
@@ -112,7 +112,7 @@ events:
   - image: "/img/timeline/USMC.png"
     date: "2006 - 2011"
     description: "SGT United States Marine Corps"
-  - image: "/"
+  - image: "/img/timeline/sales.jpg"
     date: "2012 - 2014"
     description: "Top Producing Account Manager for MN based tech company"
   - image: "/img/timeline/pinstripes.png"
