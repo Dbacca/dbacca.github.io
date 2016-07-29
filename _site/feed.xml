@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drew Since Web Developer</title>
-    <description>THis is the site that will make you want to hire Drew as your new Dev!</description>
+    <description>This is the site that will make you want to hire Drew as your new Dev!</description>
     <link>https://dbacca.github.io/dbacca.github.io/</link>
     <atom:link href="https://dbacca.github.io/dbacca.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 29 Jul 2016 13:51:55 +0700</pubDate>
-    <lastBuildDate>Fri, 29 Jul 2016 13:51:55 +0700</lastBuildDate>
+    <pubDate>Fri, 29 Jul 2016 14:25:21 +0700</pubDate>
+    <lastBuildDate>Fri, 29 Jul 2016 14:25:21 +0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>

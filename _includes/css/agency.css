@@ -9,6 +9,15 @@ body {
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.data.template.color.secondary-dark }};
 }
+.svgLogo{
+  display: block;
+  margin: 0 auto;
+
+}
+
+.centered{
+  margin: 0 auto;
+}
 
 .text-muted {
     #{{ site.data.template.color.muted }};

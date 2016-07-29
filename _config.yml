@@ -8,6 +8,7 @@ description: "This is the site that will make you want to hire Drew as your new 
 
 
 # Team names, titles and socials links
+people:
 - name: Drew Since
   pic: 2
   position: Web Developer
@@ -18,6 +19,8 @@ description: "This is the site that will make you want to hire Drew as your new 
       url: https://www.facebook.com/drew.sincebaugh
     - title: github
       url: http://github.com/dbacca
+    - title: instagram
+      url: http://instagram.com/drewsince
 
 
 
