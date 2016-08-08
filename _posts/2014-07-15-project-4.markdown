@@ -1,15 +1,14 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Resume
+subtitle: Career Opportunities
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+date: 2016-08-8
+img: resume.jpg
+thumbnail: resume_thumb.jpg
+alt: Drew Since Resume
+project-date: August 2016
+category: Career
+description: Here is a current copy of my resume for you to glance at. <br> <br> <strong>Download the <a href="img/portfolio/Drew_Sincebaugh_Resume.pdf" download> PDF Here </a>
 
 ---

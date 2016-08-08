@@ -1,15 +1,16 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Notify
+subtitle: BEM (Methodology)
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+date: 2016-08-01
+img: notify.jpg
+thumbnail: notify_thumb.jpg
 alt: image-alt
-project-date: April 2014
+project-date: August 2016
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: This is my first venture into the <a href="http://getbem.com/">BEM</a>(Block Element Modifier) Methodology. I really appreciate approachability of BEM standards and hope to use it on larger projects in the future so I can fully utilize the reusability of components that it is known for. <br><br><strong>View Live <a href="http://secur-itnet.com">Notify Marketing Site</a></strong>
+
 
 ---

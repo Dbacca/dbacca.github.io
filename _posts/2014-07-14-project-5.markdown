@@ -1,15 +1,15 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: SECURE ITnet
+subtitle: Site Redesign
 layout: default
-modal-id: 5
+modal-id: 2
 date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+img: SIT_Mock.jpg
+thumbnail: SIT_thumb.jpg
+alt: SECURE ITnet Website
+project-date: July 2016
+client: SECURE ITnet
+category: Worpdress, Design, Client Relations
+description: This client needed a modern design overhaul. We chose WordPress as the CMS. I then walked them through the discovery/design phase to understand their goals for the site and get a feel for their Brand. I then designed mock ups for the client based off the <a href="http://www.nimbusthemes.com/wordpress-themes/business/">Simple Business Theme</a> by Nimbus Themes. The Site went live in July and we are constantly adding features and functionality. <br><br> <strong>View Live <a href="http://secure-itnet.com">SECURE ITnet</a></strong>
 
 ---
