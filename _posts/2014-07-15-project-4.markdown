@@ -8,6 +8,8 @@ img: resume.jpg
 thumbnail: resume_thumb.jpg
 alt: Drew Since Resume
 project-date: August 2016
+project-url: img/portfolio/Drew_Sincebaugh_Resume.pdf
+client: Career
 category: Career
 description: Here is a current copy of my resume for you to glance at. <br> <br> <strong>Download the <a href="img/portfolio/Drew_Sincebaugh_Resume.pdf" download> PDF Here </a>
 

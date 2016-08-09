@@ -9,7 +9,7 @@ thumbnail: notify_thumb.jpg
 alt: image-alt
 project-date: August 2016
 client: Notify
-project-url: github.com/dbacca/notify
+project-url: http://www.github.com/dbacca/notify
 category: BEM (Block Element Modifier)
 description: This is my first venture into the <a href="http://getbem.com/">BEM</a>  (Block Element Modifier) Methodology. I really appreciate approachability of BEM standards and hope to use it on larger projects in the future so I can fully utilize the reusability of components that it is known for. <br><br><strong>View Live <a href="https://dbacca.github.io/notify">Notify Marketing Site</a></strong>
 
