@@ -18,16 +18,14 @@
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
                                 <li>GitHub Repo:
-                                    <strong><a href="https://github.com/Dbacca/notify">{{ post.client }}</a>
+                                    <strong><a href="{{ post.project-url }}">{{ post.client }}</a>
                                     </strong>
                                 </li>
                                 <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
-                                    </strong>
+                                    {{ post.project-date }}
                                 </li>
                                 <li>Service:
-                                    <strong><a href="https://en.bem.info/methodology/">{{ post.category }}</a>
-                                    </strong>
+                                {{ post.category }}
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
